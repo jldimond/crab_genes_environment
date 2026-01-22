@@ -1,0 +1,18 @@
+Location,Name,Lat,Lon,Sensor depth m,Reference depth
+light trap,COR,48.400,-122.625,NA,NA
+light trap,LOF,47.816,-122.656,NA,NA
+light trap,GAD,47.421,-123.130,NA,NA
+light trap,MST,47.349,-122.325,NA,NA
+light trap,NHB,48.369,-124.613,NA,NA
+light trap,PTW,48.136,-122.761,NA,NA
+light trap,SQR,48.037,-123.020,NA,NA
+light trap,WTP,46.911,-124.111,NA,NA
+light trap,FHL,48.546,-123.012,NA,NA
+light trap,SMS,48.991,-122.771,NA,NA
+sensor,Westport,46.857,-124.243,0.46,waterline
+sensor,Neah Bay,48.493,-124.727,2,waterline
+sensor,Tacoma,47.267,-122.413,1.4,mllw
+sensor,Hein Bank,48.332,-123.179,2,waterline
+sensor,Georgia Strait,49.025,-123.430,-0.61,waterline
+sensor,Friday Harbor,48.546,-123.012,-1.7,mllw
+sensor,Hoodsport,47.422,-123.113,3,waterline
